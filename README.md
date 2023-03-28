@@ -1,15 +1,16 @@
 
 
-### Hey there, my name is Bruno Oliveira Moreau, and I'm 25 years old 👋 
+<h3> Hey there, my name is Bruno Oliveira Moreau, and I'm 25 years old 👋 </h3
 
-### From a very young age, I have always been fascinated by the way technology can change the world around us. This passion led me to learn programming and develop skills that allowed me to create creative and innovative solutions to everyday problems.
+<h4> From a very young age, I have always been fascinated by the way technology can change the world around us. This passion led me to learn programming and develop skills that allowed me to create creative and innovative solutions to everyday problems.</h4>
 
-###  Furthermore, I love video games as they allow me to explore new worlds and amazing stories that inspire me to think of new ways to apply technology in the real world. As a polyglot, I am lucky to be able to communicate with people from different backgrounds and cultures, which gives me a deeper and more global understanding of the world.
+<h4> Furthermore, I love video games as they allow me to explore new worlds and amazing stories that inspire me to think of new ways to apply technology in the real world. As a polyglot, I am lucky to be able to communicate with people from different backgrounds and cultures, which gives me a deeper and more global understanding of the world.</h4>
 
-###  I am constantly seeking new ideas and challenges that can help me grow and expand my skills. By combining my passion for technology and programming with my curiosity and love for diversity, I hope to leave my mark on the world and help shape a brighter future for all.
+<h4> I am constantly seeking new ideas and challenges that can help me grow and expand my skills. By combining my passion for technology and programming with my curiosity and love for diversity, I hope to leave my mark on the world and help shape a brighter future for all.</h4>
 
+ ##
  
- ⚡⚡⚡
+ <h3> ⚡ Social Media ⚡ : </h3> 
  
 <div style ="display: inline_block">
 <a href="https://www.linkedin.com/in/bruno-moreau-171584211/"><img align ="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt ="LinkeIn"></a>
@@ -18,11 +19,9 @@
 <a href="https://steamcommunity.com/profiles/76561198094172734/"><img align ="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt ="html5"></a>
 </div>
 
-<br/>
+##
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brumo97&show_icons=true&theme=transparent)
-
-###  Technologies  🚀  : 
+<h3>  Technologies  🚀  : </h3> 
 <div style ="display: inline_block"> <br/>
 <a href="https://www.w3schools.com">
  <img align ="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt ="html5"></a>
@@ -35,7 +34,9 @@
 <img align ="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt ="CSS">
 <img align ="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white  " alt ="CSS">
 </div>
-<br/>
+<br>
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brumo97&show_icons=true&theme=transparent)
 
 <!-- ### Some stats 🚀 : 
 
