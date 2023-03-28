@@ -2,7 +2,7 @@
 
 <h3> Hey there, my name is Bruno Oliveira Moreau, and I'm 25 years old 👋 </h3
 
-<h4> From a very young age, I have always been fascinated by the way technology can change the world around us. This passion led me to learn programming and develop skills that allowed me to create creative and innovative solutions to everyday problems.</h4>
+<h4> From my young age, I have always been fascinated by the way technology can change the world around us. This passion led me to learn programming and develop skills that allowed me to create creative and innovative solutions to everyday problems.</h4>
 
 <h4> Furthermore, I love video games as they allow me to explore new worlds and amazing stories that inspire me to think of new ways to apply technology in the real world. As a polyglot, I am lucky to be able to communicate with people from different backgrounds and cultures, which gives me a deeper and more global understanding of the world.</h4>
 
