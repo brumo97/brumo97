@@ -10,15 +10,18 @@
 
  <br/>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (https://www.linkedin.com/in/bruno-moreau-171584211/))
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (https://www.instagram.com/whosbart/))
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white (https://discord.com/channels/brunoolv#9795))
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white (https://steamcommunity.com/profiles/76561198094172734/))
+<div style ="display: inline_block">
+<a href="https://www.linkedin.com/in/bruno-moreau-171584211/"><img align ="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt ="LinkeIn"></a>
+<a href="https://www.instagram.com/whosbart/"><img align ="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt ="Instagram"></a>
+<a href="https://discord.com/channels/brunoolv#9795"><img align ="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt ="Discord"></a>
+<a href="https://steamcommunity.com/profiles/76561198094172734/"><img align ="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt ="html5"></a>
+</div>
 
+<br/>
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brumo97&show_icons=true&theme=transparent)
 
-
+<br/>
 
 ###  Technologies  ⚡ : 
 <div style ="display: inline_block"> <br/>
