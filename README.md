@@ -8,7 +8,6 @@
 
 ###  I am constantly seeking new ideas and challenges that can help me grow and expand my skills. By combining my passion for technology and programming with my curiosity and love for diversity, I hope to leave my mark on the world and help shape a brighter future for all.
 
- <br/>
  
  ⚡⚡⚡
  
