@@ -4,7 +4,7 @@
 
 ### From a very young age, I have always been fascinated by the way technology can change the world around us. This passion led me to learn programming and develop skills that allowed me to create creative and innovative solutions to everyday problems.
 
-###  In addition, I love video games as they allow me to explore new worlds and amazing stories that inspire me to think of new ways to apply technology in the real world. As a polyglot, I am lucky to be able to communicate with people from different backgrounds and cultures, which gives me a deeper and more global understanding of the world.
+###  Furthermore, I love video games as they allow me to explore new worlds and amazing stories that inspire me to think of new ways to apply technology in the real world. As a polyglot, I am lucky to be able to communicate with people from different backgrounds and cultures, which gives me a deeper and more global understanding of the world.
 
 ###  I am constantly seeking new ideas and challenges that can help me grow and expand my skills. By combining my passion for technology and programming with my curiosity and love for diversity, I hope to leave my mark on the world and help shape a brighter future for all.
 
