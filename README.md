@@ -9,7 +9,9 @@
 ###  I am constantly seeking new ideas and challenges that can help me grow and expand my skills. By combining my passion for technology and programming with my curiosity and love for diversity, I hope to leave my mark on the world and help shape a brighter future for all.
 
  <br/>
-
+ 
+ ⚡⚡⚡
+ 
 <div style ="display: inline_block">
 <a href="https://www.linkedin.com/in/bruno-moreau-171584211/"><img align ="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt ="LinkeIn"></a>
 <a href="https://www.instagram.com/whosbart/"><img align ="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt ="Instagram"></a>
@@ -23,7 +25,7 @@
 
 <br/>
 
-###  Technologies  ⚡ : 
+###  Technologies  🚀  : 
 <div style ="display: inline_block"> <br/>
 <a href="https://www.w3schools.com">
  <img align ="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt ="html5"></a>
@@ -38,6 +40,6 @@
 </div>
 <br/>
 
-### Some stat 🚀 : 
+<!-- ### Some stats 🚀 : 
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brumo97&theme=blue-green)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brumo97&theme=blue-green) -->
