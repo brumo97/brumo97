@@ -1,22 +1,64 @@
 
+# Hey, I'm Bruno Moreau 👋
 
-<h3> Hey there, my name is Bruno Oliveira Moreau, and I'm 25 years old 👋 </h3
+### Business mind. Analytical thinking. Builder mindset.
 
- ##
- 
- <h3> ⚡ Social Media ⚡ : </h3> 
- 
-<div style ="display: inline_block">
-<a href="https://www.linkedin.com/in/bruno-moreau-171584211/"><img align ="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt ="LinkeIn"></a>
+I'm curious about one thing: **how can we use technology and data to solve real problems and make better decisions?**
 
-<a href="https://discord.com/channels/brunoolv#9795"><img align ="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt ="Discord"></a>
+My background is in business development, operations and supply chain. Today, I'm exploring the world of software development, data analytics and automation.
 
-</div>
+I enjoy connecting the dots between **business challenges, data and technology** — turning ideas into something practical.
 
-##
+I don't just want to understand how things work. **I want to build things that work.**
 
+---
 
-<br>
-<!-- ### Some stats 🚀 : 
+### 🚀 What I'm building
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brumo97&theme=blue-green) -->
+- 🧠 **Decision-making tools** — Turning complex problems into clear, actionable insights.
+- 📊 **Data analytics & visualization** — Finding patterns, telling stories with data and making information useful.
+- ⚙️ **Automation & productivity** — Making repetitive work a little less repetitive.
+- 💡 **Business & tech projects** — Connecting strategy, operations and technology to solve real challenges.
+- 💻 **Web development** — Learning JavaScript by building, experimenting and improving.
+
+### 🛠️ My toolkit
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+*Always learning. Always experimenting. Always looking for a better way.*
+
+### 🔬 Projects worth exploring
+
+**[PMO Decision Lab](https://github.com/brumo97/macarriere-pmo-decision-lab)**
+
+Exploring how technology can support project management, prioritization and smarter business decisions.
+
+*And this is only the beginning. More experiments, lessons and projects are on the way.*
+
+---
+
+### 📈 My GitHub journey
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brumo97&layout=compact&theme=github_dark)
+
+### 🌍 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-moreau-171584211/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brumo97)
+
+---
+
+### 💡 One last thing
+
+I'm not here to showcase perfection.
+
+I'm here to **learn in public, challenge myself, build useful things and get better with every project.**
+
+I believe the most interesting ideas often happen when different worlds collide — **business, data, technology and a little curiosity.**
+
+**If you're into technology, data, business and creative problem-solving, stick around. You might find something interesting here **
