@@ -13,7 +13,7 @@ I don't just want to understand how things work. **I want to build things that w
 
 ---
 
-### 🚀 What I'm building
+### What I'm building
 
 - 🧠 **Decision-making tools** — Turning complex problems into clear, actionable insights.
 - 📊 **Data analytics & visualization** — Finding patterns, telling stories with data and making information useful.
@@ -53,6 +53,7 @@ Exploring how technology can support project management, prioritization and smar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-moreau-171584211/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brumo97)
+[![Discord](https://img.shields.io/badge/Discord-Let's_Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/brunoolv)
 
 ---
 
