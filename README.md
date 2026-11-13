@@ -1,4 +1,4 @@
-Hey, I'm Bruno Moreau 👋
+# **Hey, I'm Bruno Moreau 👋**
 
 My background is in business development, operations and supply chain. Curiosity got me into tech: could I build something that makes the job easier???
 
