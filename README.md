@@ -1,8 +1,20 @@
-# Hey, I'm Bruno 👋
+Hey, I'm Bruno Moreau 👋
 
-My background is in business development, operations and supply chain.
+My background is in business development, operations and supply chain. Curiosity got me into tech: could I build something that makes the job easier???
 
-I'm learning JavaScript and building small apps, dashboards and automations. I share my projects here as I go.
+I like figuring out how things work, trying ideas and turning a few of them into useful tools.
+
+What I'm building
+
+🧠 Tools to compare options and make decisions.
+
+📊 Dashboards that make data easier to understand.
+
+⚙️ Automations for repetitive tasks.
+
+💡 Projects inspired by everyday business problems.
+
+💻 Web apps to put ideas into practice.
 
 ### 🛠️ My toolkit
 
