@@ -1,25 +1,8 @@
+# Hey, I'm Bruno 👋
 
-# Hey, I'm Bruno Moreau 👋
+My background is in business development, operations and supply chain.
 
-### Business mind. Analytical thinking. Builder mindset.
-
-I'm curious about one thing: **how can we use technology and data to solve real problems and make better decisions?**
-
-My background is in business development, operations and supply chain. Today, I'm exploring the world of software development, data analytics and automation.
-
-I enjoy connecting the dots between **business challenges, data and technology** — turning ideas into something practical.
-
-I don't just want to understand how things work. **I want to build things that work.**
-
----
-
-### What I'm building
-
-- 🧠 **Decision-making tools** — Turning complex problems into clear, actionable insights.
-- 📊 **Data analytics & visualization** — Finding patterns, telling stories with data and making information useful.
-- ⚙️ **Automation & productivity** — Making repetitive work a little less repetitive.
-- 💡 **Business & tech projects** — Connecting strategy, operations and technology to solve real challenges.
-- 💻 **Web development** — Learning JavaScript by building, experimenting and improving.
+I'm learning JavaScript and building small apps, dashboards and automations. I share my projects here as I go.
 
 ### 🛠️ My toolkit
 
